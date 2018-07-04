@@ -5,4 +5,13 @@ Question #1: Explain the differences made to Classical Gram-Schmidt to obtain Mo
 
   One of the main differences is that the Modified Gram-Schmidt method defines everything using i. there is also three forloops in the Modified Code vs to two forloops, this helps reducing rounding error to give a more accurate answer.
   
-Question #3: 
+Question #3: Briefly explain the concepts of conditioning and stability and why they are necessary.
+
+  Conditioning: Analizes how small changes changes in the algorithm affect the solution.
+  There are two cases, ill and well.
+  This cases can tell you whether or not changes have significant effect on the code.
+  
+  Stability: It checks the accuracy of your model using absolute and relative error. it helps problem to handle errors.
+  There is two types of stability, forward and backwards. Backwards stability is stronger than forward.
+  Backwards stability is really useful for building bridges, and composition of materials.
+  
