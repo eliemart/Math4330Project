@@ -1,0 +1,8 @@
+Gerardo Rattia
+Math4330Project - Part 2
+
+Question #1: Explain the differences made to Classical Gram-Schmidt to obtain Modified Gram-Schmidt. Briefly state why Modified is necessary.
+
+  One of the main differences is that the Modified Gram-Schmidt method defines everything using i. there is also three forloops in the Modified Code vs to two forloops, this helps reducing rounding error to give a more accurate answer.
+  
+Question #3: 
