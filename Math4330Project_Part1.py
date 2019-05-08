@@ -1,4 +1,4 @@
-#Gerardo Rattia
+#Eliezer Martinez
 Math4330Project - Part 1
 
 def ScaVecMulti(scalar, vector01):
